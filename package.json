@@ -1,0 +1,27 @@
+{
+  "name": "thiessensumdegen",
+  "version": "1.0.0",
+  "description": "Testing Open source tea sum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "thiessensumdegen": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThiessenBenoit186/thiessensumdegen.git"
+  },
+  "homepage": "https://twitter.com/MariaDonna45149",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "ThiessenBenoit186",
+  "license": "MIT"
+}
